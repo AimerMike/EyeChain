@@ -6,11 +6,7 @@ Here is a professional and complete `README.md` for your **EyeChain** project, s
 
 # EyeChain: Blockchain-Based Vision Risk Monitoring & Collaboration Network
 
-[English](https://www.google.com/search?q=%23english) | [中文](https://www.google.com/search?q=%23%E4%B8%AD%E6%96%87)
 
------
-
-\<a name="english"\>\</a\>
 
 ## 🌟 Project Overview
 
@@ -47,9 +43,7 @@ Here is a professional and complete `README.md` for your **EyeChain** project, s
 3.  **Risk Event Submission:** Log daily activities (e.g., heavy lifting, sports) to the blockchain to monitor cumulative risk.
 4.  **Data Sharing Governance:** Choose between private data, anonymous sharing, or public contribution.
 
------
-
-\<a name="中文"\>\</a\>
+---
 
 ## 🌟 项目简介
 
