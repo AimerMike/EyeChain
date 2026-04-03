@@ -1,6 +1,5 @@
 # EyeChain
 web3 hackathon
-Here is a professional and complete `README.md` for your **EyeChain** project, structured based on your provided example and the details from your PPT and technical stack.
 
 -----
 
