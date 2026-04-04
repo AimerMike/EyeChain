@@ -92,7 +92,9 @@ Architecture: Lovable-driven UI with GitHub synchronized workflow
 ├── contracts/          # Solidity Smart Contracts (Remix)
 │   ├── UserManagement.sol
 │   └── RiskManagement.sol
+│   └── DataSharingAndRewards.sol
 ├── src/
+├── all other necessary docs are in private projects/
 │   ├── lib/            # Contract ABI & Ethers configurations
 │   ├── components/     # Dashboard & Form UI
 │   └── pages/          # Main application logic
